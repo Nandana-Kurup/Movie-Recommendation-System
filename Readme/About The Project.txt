@@ -1,0 +1,22 @@
+
+📚 About the Project
+The Movie Recommendation System is a web-based application built using Streamlit that helps users find similar movies based on their preferences. The project leverages a content-based filtering algorithm to suggest movies by analyzing their metadata.
+
+Key Features:
+Movie Recommendation: Users can select a movie from a list, and the system will recommend the top 5 most similar movies based on the movie's attributes (overview, genres, keywords, cast, and crew).
+
+Chatbot: A rule-based chatbot is integrated, offering conversational interaction. It responds to user queries and provides movie suggestions based on user input (e.g., "recommend a movie," "hello," "what movie should I watch?").
+
+
+Technologies Used:
+
+(a)Python 
+(b) Streamlit for the web interface
+(c)scikit-learn for machine learning (cosine similarity, vectorization)
+(d) NLTK for text preprocessing (stemming)
+(e) Pandas and Pickle for data processing and model storage
+
+
+Purpose:
+This project aims to enhance the user experience by providing movie suggestions that are personalized based on the movies they enjoy. The chatbot adds an interactive layer to the application, making it more engaging and fun to use.
+
