@@ -1,5 +1,8 @@
 💻 Project Setup
 
+Important - Please download similarity.pkl from this (model)
+   drive link - https://drive.google.com/file/d/18NnN0-ztDXRtbmcLdfpOiE3rWQ31hs33/view?usp=drive_link
+It was a large file and so tried uploading it with git Lfs too but it didn't work .
 
 (1) After cloning the Repository
 
